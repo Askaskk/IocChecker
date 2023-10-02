@@ -20,6 +20,7 @@ To use IocChecker, run the following command:
 
 ```bash
 python3 [filename] --file [path of the apk to be analyzed]
+
 ```
 Remember to replace parameters before running the command in you terminal.
 
